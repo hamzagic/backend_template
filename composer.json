@@ -1,0 +1,19 @@
+{
+    "name": "francishamzagic/php_backend",
+    "description": "Studying purposes",
+    "authors": [
+        {
+            "name": "Francis Hamzagic",
+            "email": "francishamzagic@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "backend\\": "src/"
+        },
+        "files": [
+            "config.php"
+        ]
+    }
+}
